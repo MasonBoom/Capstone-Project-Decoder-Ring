@@ -9,7 +9,7 @@ This app was created using Javascript and custom unit tests were created with Mo
 Clone the project
 
 ```bash
-  git clone https://github.com/g-aleks/decoder-ring-project.git
+  git clone https://https://github.com/MasonBoom/Capstone-Project-Decoder-Ring/tree/main
 ```
 
 Go to the project directory
