@@ -29,3 +29,13 @@ Start the app
 ```bash
   npm start
 ```
+## Screenshots of The App
+
+### Caesar
+![i]()
+
+### Polybius
+![i]()
+
+### Substitution
+![i]()
