@@ -1,5 +1,5 @@
 # Capstone-Project-Decoder-Ring
-Project for thinkful.com
+First project for Thinkful's Software Engineering course.
 
 # Decoder Ring
 
