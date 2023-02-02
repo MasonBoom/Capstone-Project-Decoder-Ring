@@ -35,10 +35,10 @@ Start the app
 ## Screenshots of The App
 
 ### Caesar
-![i](https://github.com/MasonBoom/Capstone-Project-Decoder-Ring/images/caesar.png)
+![i](https://github.com/MasonBoom/Capstone-Project-Decoder-Ring/blob/5af870a0d2b161cd28cd46471b3edba92c3ae6b7/images/caesar.png)
 
 ### Polybius
-![i](https://github.com/MasonBoom/Capstone-Project-Decoder-Ring/images/polybius.png)
+![i](https://github.com/MasonBoom/Capstone-Project-Decoder-Ring/blob/5af870a0d2b161cd28cd46471b3edba92c3ae6b7/images/polybius.png)
 
 ### Substitution
-![i](https://github.com/MasonBoom/Capstone-Project-Decoder-Ring/images/substitution.png)
+![i](https://github.com/MasonBoom/Capstone-Project-Decoder-Ring/blob/5af870a0d2b161cd28cd46471b3edba92c3ae6b7/images/substitution.png)
