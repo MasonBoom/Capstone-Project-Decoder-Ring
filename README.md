@@ -3,9 +3,9 @@ First project for Thinkful's Software Engineering course.
 
 # Decoder Ring
 
-This app was created using HTML, Javascript and custom unit tests were created with Mocha and Chai. The app decodes and encodes messages using the historical Caesar, Polybius, and Substitution cyphers.
+This app was created using HTML, Javascript and unit tests were created using Mocha and Chai. The app decodes and encodes messages using the historical Caesar, Polybius, and Substitution cyphers.
 
-Each cipher presented in a webpage has a brief description of what each of the ciphers do so that way, users are easily able to figure out how to use the app. You can use the app to either encode or decode messages.
+Each cipher presented in a webpage has a brief description of what each of the ciphers do so users are easily able to figure out how to use the app. You can use the app to either encode or decode messages.
 
 ## Run Locally
 
@@ -35,10 +35,10 @@ Start the app
 ## Screenshots of The App
 
 ### Caesar
-![i](https://github.com/MasonBoom/Capstone-Project-Decoder-Ring/blob/main/Decoder%20Ring%20-%20Home%20Page%20-%20Google%20Chrome%202_5_2022%208_58_34%20PM%20(5).png?raw=true)
+![i](https://github.com/MasonBoom/Capstone-Project-Decoder-Ring/images/caesar.png)
 
 ### Polybius
-![i](https://github.com/MasonBoom/Capstone-Project-Decoder-Ring/blob/main/Decoder%20Ring%20-%20Home%20Page%20-%20Google%20Chrome%202_5_2022%208_58_34%20PM%20(3).png?raw=true)
+![i](https://github.com/MasonBoom/Capstone-Project-Decoder-Ring/images/polybius.png)
 
 ### Substitution
-![i](https://github.com/MasonBoom/Capstone-Project-Decoder-Ring/blob/main/Decoder%20Ring%20-%20Home%20Page%20-%20Google%20Chrome%202_5_2022%208_58_40%20PM%20(2).png?raw=true)
+![i](https://github.com/MasonBoom/Capstone-Project-Decoder-Ring/images/substitution.png)
