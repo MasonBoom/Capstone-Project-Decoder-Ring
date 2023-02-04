@@ -44,11 +44,11 @@ describe("caesar", () => {
     expect(actual).to.equal(expected)
   })
   it("Capital letters can be ignored", () => {
-const input = "This is a secret message!"
-const shift = 8
-const expected = "bpqa qa i amkzmb umaaiom!"
-const actual = caesar(input, shift)
-expect(actual).to.equal(expected)
+    const input = "This is a secret message!"
+    const shift = 8
+    const expected = "bpqa qa i amkzmb umaaiom!"
+    const actual = caesar(input, shift)
+    expect(actual).to.equal(expected)
   })
   
   it("decode cypher test", () => {
@@ -57,14 +57,13 @@ expect(actual).to.equal(expected)
     const expected = "this is a secret message!"
     const actual = caesar(input, shift, false)
     expect(actual).to.equal(expected)
-      });
+  });
   
-      it("should allow for a negative shift that will shift to the left", () => {
-        const input = "zebra magazine"
-        const shift = -3
-        const expected = "wbyox jxdxwfkb"
-        const actual = caesar(input, shift)
-        expect(actual).to.equal(expected)
-          })
-
+  it("should allow for a negative shift that will shift to the left", () => {
+    const input = "zebra magazine"
+    const shift = -3
+    const expected = "wbyox jxdxwfkb"
+    const actual = caesar(input, shift)
+    expect(actual).to.equal(expected)
+  })
 })
